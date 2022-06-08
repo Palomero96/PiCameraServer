@@ -1,0 +1,4 @@
+- Streaming a traves de web:
+    - Ip Statica 192.168.0.50 DONE
+    - WEB BASICA no se puede utilizar el paquete PiCamera porque no funciona con USB Camera
+    - Configurar router para que permita acceder desde fuera
