@@ -1,0 +1,6 @@
+#Install libraries
+pip install numpy -I
+pip install opencv-contrib-python
+
+#Root terminal and reboot to detect the usb camera
+echo "bcm2835-v4l2" | sudo tee >> /etc/modules
